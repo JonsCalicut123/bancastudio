@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+Banca.studio – Game Bắn Cá Đổi Thưởng Hấp Dẫn Nhất 2024
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Banca.studio là điểm đến lý tưởng cho những ai đam mê game bắn cá đổi thưởng. Với sự hấp dẫn từ những tựa game đa dạng và tính năng đổi thưởng độc đáo, Banca.studio đang nhanh chóng trở thành lựa chọn hàng đầu cho game thủ trong năm 2024.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Truy cập ngay: https://banca.studio/
 
-.. note::
+Thông tin liên hệ:
 
-   This project is under active development.
+Website: https://banca.studio/ 
 
-Contents
---------
+Địa chỉ: 104 Hòa Bình, Phú Trung, Tân Phú, Hồ Chí Minh, Việt Nam
 
-.. toctree::
+Phone: 0972.870.780
 
-   usage
-   api
+Email: banca.studio@gmail.com
+
+#banca #bắn cá #bắn cá h5 #banca.studio
